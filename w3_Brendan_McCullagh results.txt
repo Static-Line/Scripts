@@ -1,0 +1,78 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+cscript
+0
+12/12/2018 7:41:19 PM
+Homework01.vbs
+308
+12/13/2018 1:16:29 PM
+log.txt
+198
+12/22/2018 8:29:10 PM
+Myfolder01.vb
+438
+12/12/2018 8:21:45 PM
+Myfolder01.vbs
+438
+12/12/2018 8:20:54 PM
+myHtml01.html
+56
+12/6/2018 7:24:57 PM
+myHtml02.html
+62
+12/6/2018 7:27:20 PM
+mynd01.js
+47
+12/6/2018 8:35:01 PM
+mypy01.py
+40
+12/6/2018 8:36:39 PM
+myScriptl01.js
+75
+12/6/2018 7:29:37 PM
+myScriptl01.vbs
+77
+12/6/2018 7:37:43 PM
+MyVBScript.01.vbs
+27
+12/12/2018 7:37:20 PM
+MyVBScript02.vbs
+375
+12/12/2018 7:49:13 PM
+MyVBScript03.vbs
+410
+12/12/2018 7:51:20 PM
+MyVBScript04.vbs
+205
+12/12/2018 8:03:31 PM
+MyVBScript05.vbs
+526
+12/12/2018 8:12:59 PM
+new 3.vbs
+303
+12/21/2018 7:40:28 PM
+new2.vbs
+311
+12/21/2018 7:29:08 PM
+results.txt
+154
+12/14/2018 7:44:18 PM
+Tacos01.vbs
+442
+12/12/2018 8:24:58 PM
+try3.vbs
+350
+12/21/2018 7:45:47 PM
+w2_Brendan_McCullagh.txt
+314
+12/14/2018 7:46:44 PM
+w2_Brendan_McCullagh.vbs
+315
+12/13/2018 1:55:17 PM
+w3_Brendan_McCullagh.vb
+621
+12/20/2018 3:02:09 PM
+w3_Brendan_McCullagh.vbs
+551
+12/20/2018 2:44:29 PM
